@@ -12,6 +12,8 @@ https://seleniumbase.io/help_docs/install_python_pip_git/
 
 From there you can install seleniumbase with pip: ```pip install seleniumbase```
 
+# Fork this project and create a pull request for the below
+
 # Write the following tests for MyTestClass(BaseCase):
 ```
  # hit the lets go button and run a speed test
