@@ -31,7 +31,7 @@ From there you can install seleniumbase with pip: ```pip install seleniumbase```
         # and the Distance is set to Kilometers.
 
         ## Extra ##
-        ## If you finish that really easily try going to the Results history (under login) page
+        ## Navigate to the Results history (under login) page
         # and write any tests you find interesting
  ```
 
