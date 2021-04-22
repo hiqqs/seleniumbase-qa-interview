@@ -7,7 +7,7 @@ Having the following installed
 * pip
 * seleniumbase
 
-Selenium base has good documentation how to install python, pip and sbase here
+Selenium base has good documentation how to install python, pip and sbase here (This will also take care of all webdriver needs)
 https://seleniumbase.io/help_docs/install_python_pip_git/
 
 From there you can install seleniumbase with pip: ```pip install seleniumbase```
