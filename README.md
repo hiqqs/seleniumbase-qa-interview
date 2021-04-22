@@ -5,7 +5,7 @@ just having fun with selenium base and a start project that can be used to help 
 Having the following installed
 * python
 * pip
-* seleniumbase
+* seleniumbase.io
 
 Selenium base has good documentation how to install python, pip and sbase here (This will also take care of all webdriver needs)
 https://seleniumbase.io/help_docs/install_python_pip_git/
