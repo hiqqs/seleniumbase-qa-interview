@@ -16,6 +16,11 @@ From there you can install seleniumbase with pip: ```pip install seleniumbase```
 
 # Write the following tests for MyTestClass(BaseCase):
 ```
+class MyTestClass(BaseCase):
+
+    def test_basics(self):
+        self.open("https://www.speedtest.net/")
+        
  # hit the lets go button and run a speed test
         
         #  navigation menu:
